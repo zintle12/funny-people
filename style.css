@@ -1,0 +1,18 @@
+ body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-colour: white;
+ }
+ #right-column{
+     width: 230px;
+     margin-left: 140px;
+     margin-top: 100px;
+ }
+ img#logo{
+     position: fixed;
+     width: 150px;
+     bottom: 20px;
+     right: 10px
+ }
+
